@@ -6,8 +6,11 @@ How to Setup in Development
 ===========================
 
 `$ mkdir myapp`
+
 `$ cd myapp`
+
 `$ bundle install`
+
 `$ shotgun`
 
 Then browse to:
