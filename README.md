@@ -10,8 +10,11 @@ How to setup in Development
 `$ mate myapp_dir/.rvmrc`
 
 Change this line: 
+
   rvm use 1.9.2-p290@sinatra-middleware --create
+  
 To:
+
   rvm use 1.9.2-p290@myapp_dir --create
   
 Note: You can also change the rubie that you are using.
